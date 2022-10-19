@@ -1,0 +1,31 @@
+.final{
+    width: 25%;
+}
+.lists{
+    margin-left: 120px;
+    margin-top: 20px;
+}
+.lists img{
+    border-radius: 50%;
+    font-size: 50px;
+    height: 50px;
+    width: 50px;
+
+}
+.detail{
+    text-align: center;
+    list-style-type: none;
+font-size: 25px;
+padding: 15px;
+}
+.detail li i{
+    padding-right: 15px;
+    color: blue;
+}
+.detail li{
+    padding-top: 35px;
+}
+.detail i{
+    margin-right: 15px;
+}
+    

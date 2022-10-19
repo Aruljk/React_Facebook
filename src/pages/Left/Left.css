@@ -1,0 +1,14 @@
+.leftbar{
+    width: 25%;
+list-style-type: none;
+font-size: 25px;
+padding-top:10px;
+margin-bottom: 10px;
+}
+.leftbar li i{
+    padding-right: 15px;
+    color: blue;
+}
+.leftbar li{
+    padding-top: 30px;
+}
